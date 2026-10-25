@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI",
+  "description": "Intelligent personal AI assistant & productivity platform with multi-turn chat, document intelligence, code workspace, web research, and personal productivity tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
